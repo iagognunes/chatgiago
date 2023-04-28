@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90409690152",
+    "project_id": "chatgiago",
+    "storage_bucket": "chatgiago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90409690152:android:513c401057aa6b8276011d",
+        "android_client_info": {
+          "package_name": "br.com.jambudev.chatgiago.chatgiago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90409690152-ukmjkijo0di7ovpee721j025drt3mdsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFRUikSqxj1cqAgbPTZdOl7wTWwMFGZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90409690152-ukmjkijo0di7ovpee721j025drt3mdsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
